@@ -3,20 +3,19 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MQTTwriteV7/MQTTserverV7Component.cs">
     <Files>
       <File FileName="MQTTwriteV7/MQTTwriteV7Component.cs" Line="135" Column="28" />
-      <File FileName="MQTTwriteV7/MQTTreadV7Component.cs" Line="74" Column="1" />
+      <File FileName="MQTTwriteV7/MQTTreadV7Component.cs" />
       <File FileName="MQTTwriteV7/MQTTserverV7Component.cs" Line="207" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="MQTTwriteV7" expanded="True" selected="True">
-            <Node name="MQTTwriteV7" expanded="True" />
+          <Node name="MQTTwriteV7" expanded="True">
+            <Node name="MQTTwriteV7" expanded="True">
+              <Node name="MQTTserverV7Component.cs" selected="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
