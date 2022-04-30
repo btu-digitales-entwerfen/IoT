@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj": {}
+  },
+  "projects": {
+    "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj",
+        "projectName": "MQTTwriteV7",
+        "projectPath": "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/admin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.16.22067.13001, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

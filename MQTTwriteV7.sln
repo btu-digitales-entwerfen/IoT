@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTTwriteV7", "MQTTwriteV7\MQTTwriteV7.csproj", "{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6209564-F9A4-49FA-B17E-73DABA55CD8D}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		description = @This components:\n- enables sending MQTT-messages to some MQTT-broker on specific topic with some specific QOS\n- enables reading MQTT-messages from some MQTT-broker on specific topic with some specific QOS\n- also it can establish a MQTT-broker for testing purposes at the 127.0.0.1 (localhost)
+	EndGlobalSection
+EndGlobal

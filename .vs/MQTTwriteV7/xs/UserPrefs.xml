@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}|Default">
+  <MonoDevelop.Ide.ItemProperties.MQTTwriteV7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MQTTwriteV7/MQTTserverV7Component.cs">
+    <Files>
+      <File FileName="MQTTwriteV7/MQTTwriteV7Component.cs" Line="135" Column="28" />
+      <File FileName="MQTTwriteV7/MQTTreadV7Component.cs" Line="74" Column="1" />
+      <File FileName="MQTTwriteV7/MQTTserverV7Component.cs" Line="207" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="MQTTwriteV7" expanded="True" selected="True">
+            <Node name="MQTTwriteV7" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/admin/Library/Caches/VisualStudio/8.0/Symbols/mono/mono/51d876a041efde9569b94d29743466ec6841109e</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="ilija vukorep" Email="ilija.vukorep@b-tu.de" Copyright="" Company="BTU Cottbus-Senftenberg" Trademark="" />
+</Properties>
