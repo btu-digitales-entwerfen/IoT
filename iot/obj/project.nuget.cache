@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEtOszEQn0qBv6G0BZnS1lWfZNaZA8YP0blr5x3lEU4bWuISxeTo78+ovrPAh+pz3EjdgJ1CcKsGiDDkD3dVGQ==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/grasshopper/7.16.22067.13001/grasshopper.7.16.22067.13001.nupkg.sha512",
+    "/Users/admin/.nuget/packages/mqttnet/3.1.2/mqttnet.3.1.2.nupkg.sha512",
+    "/Users/admin/.nuget/packages/rhinocommon/7.16.22067.13001/rhinocommon.7.16.22067.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

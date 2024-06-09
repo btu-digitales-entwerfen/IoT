@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/MQTTwriteV7.csproj": {}
+    "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj": {}
   },
   "projects": {
-    "/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/MQTTwriteV7.csproj": {
+    "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/MQTTwriteV7.csproj",
+        "projectUniqueName": "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj",
         "projectName": "MQTTwriteV7",
-        "projectPath": "/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/MQTTwriteV7.csproj",
+        "projectPath": "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/MQTTwriteV7.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/obj/",
+        "outputPath": "/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/admin/.nuget/NuGet/NuGet.Config"
+          "/Users/admin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net48"
@@ -46,15 +49,9 @@
             "MQTTnet": {
               "target": "Package",
               "version": "[3.1.2, )"
-            },
-            "Microsoft.NETFramework.ReferenceAssemblies": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.0.3, )",
-              "autoReferenced": true
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,9 +1,10 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.809.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTTwriteV7", "MQTTwriteV7\MQTTwriteV7.csproj", "{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iot", "iot\iot.csproj", "{1E69365C-E5BB-4E9C-A9A4-161F25AB416B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

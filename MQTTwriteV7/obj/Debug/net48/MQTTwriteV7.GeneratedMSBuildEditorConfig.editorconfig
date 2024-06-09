@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MQTTwriteV7
+build_property.ProjectDir = /Users/admin/gitlab/gh_mqtt/MQTTwriteV7/
