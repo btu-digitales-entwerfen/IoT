@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/admin/gitlab/gh_mqtt/iot/iot.csproj": {}
+  },
+  "projects": {
+    "/Users/admin/gitlab/gh_mqtt/iot/iot.csproj": {
+      "version": "0.5.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/gitlab/gh_mqtt/iot/iot.csproj",
+        "projectName": "iot",
+        "projectPath": "/Users/admin/gitlab/gh_mqtt/iot/iot.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/gitlab/gh_mqtt/iot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[8.7.24138.15431, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.6.1152, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
