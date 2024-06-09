@@ -2,7 +2,7 @@
 
 DOI 10.5281/zenodo.11535308
 
-![icons](/Users/admin/gitlab/gh_mqtt/icons.png)
+![icons](icons.png)
 
 This open-source project adds IoT communication to Grasshopper for Rhino3D. It is part of a series of diverse digital projects developed since 2020 at the Department for Digital Design Methods at the Institute for Architecture at BTU Cottbus-Senftenberg. We use it for controlling robots, managing various microservices in combination with simulation, visualization, and building processes on Rhino.
 
