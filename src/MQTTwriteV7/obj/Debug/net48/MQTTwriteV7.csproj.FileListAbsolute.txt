@@ -1,0 +1,17 @@
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/bin/Debug/net48/MQTTwriteV7.gha
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/bin/Debug/net48/MQTTwriteV7.pdb
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/bin/Debug/net48/MQTTnet.dll
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.AssemblyInfoInputs.cache
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.AssemblyInfo.cs
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.csproj.CoreCompileInputs.cache
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.csproj.CopyComplete
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.gha
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.pdb
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.Resources.resources
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.csproj.GenerateResource.cache
+/Users/admin/Library/CloudStorage/OneDrive-b-tu.de/FGDE - PROJECTS/Code Sammlung/Projects/MQTTwriteV7/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.csproj.AssemblyReference.cache
+/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.csproj.AssemblyReference.cache
+/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.Resources.resources
+/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.csproj.GenerateResource.cache
+/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.gha
+/Users/admin/gitlab/gh_mqtt/MQTTwriteV7/obj/Debug/net48/MQTTwriteV7.pdb
